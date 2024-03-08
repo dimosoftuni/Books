@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "chai": "5.1.0",
-    "chai-http": "^4.4.0",
+    "supertest": "6.3.4",
     "mocha": "^10.3.0"
   }
 }
